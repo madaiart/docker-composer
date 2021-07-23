@@ -32,5 +32,7 @@ services:
 - **volumes:** Those are the local volumes that save the data locally in case the docker container will be deleted.
 - **ports:** It represent the local:docker ports.
 
+### Running
+```docker-compose up --detach -p ComposeMongo```
 
 **SeeYouSoon Coders**
